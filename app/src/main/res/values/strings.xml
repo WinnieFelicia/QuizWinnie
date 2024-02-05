@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizWinnie</string>
+    <string name="txt1">Profil</string>
+    <string name="txt2">Perbaharui Foto, nama dan informasi lainnya</string>
+    <string name="txt3">Todo List</string>
+    <string name="txt4">Tulis jadwal rencana kegiatan anda</string>
+</resources>
